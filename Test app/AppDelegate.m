@@ -1,6 +1,5 @@
 //
 //  AppDelegate.m
-//  Test app
 //
 //  Created by Jitendra Nigam on 16/10/16.
 //  Copyright © 2016 Jitendra Nigam. All rights reserved.
